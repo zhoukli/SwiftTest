@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.5.1)
+  - Kingfisher (4.2.0)
+  - MJRefresh (3.1.15)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  Kingfisher: 9ee7e788d8ba07c3f21ce0d43f33cec310a4f781
+  MJRefresh: 9af70f5f9327a2cf87f0fb5929f35fcc2fa638ea
+
+PODFILE CHECKSUM: b6ad5b0fe82bd22a662eb24ea855f98f57a3961d
+
+COCOAPODS: 1.4.0
